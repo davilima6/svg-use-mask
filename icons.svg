@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask id="mask-letter-D" fill="#fff">
+      <path
+        d="M.077.353V42.21h14.547c13.921 0 23.66-4.557 23.66-20.749l-.002-.179c0-.061.003-.118.003-.18C38.285 4.91 28.544.354 14.623.354H.077zM10.732 8.89h4.123c7.791 0 12.432 4.233 12.432 12.408 0 8.174-4.641 12.407-12.432 12.407h-4.123V8.89z"
+      />
+    </mask>
+  </defs>
+  <symbol id="letter-D" viewBox="0 0 198 71">
+    <g fill="none" fill-rule="evenodd">
+      <g transform="translate(0 2.5)">
+        <path fill="currentColor" mask="url(#mask-letter-D)" d="M-2.094 79.439h88.707V-1.869H-2.094z" />
+      </g>
+    </g>
+  </symbol>
+</svg>
